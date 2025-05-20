@@ -1,0 +1,5 @@
+0 Carrinho
+1 Homem Aranha
+2 Pedra
+3 Caneta
+4 Apontador
